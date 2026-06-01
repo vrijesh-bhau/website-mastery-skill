@@ -1,169 +1,380 @@
-# 🧠 Website Mastery — AI Design Intelligence System
+# 🚀 Website Mastery Skill System
 
-> **22 modules • 350+ website ideas • 100+ color palettes • Complete design knowledge base for AI agents**
-
----
+> **A comprehensive AI-powered agent framework for intelligent website design, development, and operations management.**
 
 ## 📌 What Is This?
 
-यह कोई simple design guide nahi hai. यह एक **complete Website Intelligence System** hai jo AI agents को सिखाता है कि **premium, modern, high-conversion websites** kaise banayi jati hain — exactly jaisi top SaaS companies, award-winning agencies, aur successful creators banate hain.
+This is **not a static guide**—it's a **living, operationalized skill system** for AI agents and developers. It combines strategic knowledge (how to think) with tactical tools (how to execute) to build world-class websites autonomously.
 
-Whether you're an AI agent, a developer, or a designer — this skill system teaches you the **theory + practical implementation** of world-class web design.
-
----
-
-## 🎯 Why Use This?
-
-| Problem | Solution |
-|---------|----------|
-| Websites look "basic" or "template-like" | Learn professional design principles that separate premium from average |
-| Don't know which colors/fonts work together | 100+ proven palettes + typography pairing system |
-| Animations feel janky or pointless | Motion design guide with Framer Motion, GSAP, Three.js |
-| Low conversion rates | Conversion optimization module with A/B testing, psychology, friction removal |
-| 3D seems too complex | Step-by-step Three.js / R3F guide with mobile fallbacks |
-| Don't know what to build | 350 website ideas across 30+ categories with full specs |
-| Can't tell if your design is good | Audit system + design review matrix with scoring |
+The system is built on **21 skill files** that work together in a **sophisticated routing protocol**, enabling agents to:
+- ✅ Research and audit websites intelligently
+- ✅ Design premium web experiences from scratch
+- ✅ Execute multi-step code changes safely
+- ✅ Manage ongoing website operations
+- ✅ Debug complex issues systematically
+- ✅ Plan and verify every step
 
 ---
 
-## 📚 What's Inside (22 Modules)
+## 🎯 Why Use This Skill System?
 
-### 🏗 Foundations & Theory
-| Module | What It Teaches |
-|--------|-----------------|
-| **01 — Website Foundations** | Visual hierarchy, Gestalt laws, Fitts's Law, design frameworks, accessibility basics |
-| **02 — UI-UX Mastery** | User research, interaction patterns, micro-interactions, mobile UX, onboarding flows |
-| **03 — Professional Color Systems** | Color psychology, 100+ palettes, dark/light systems, WCAG accessibility |
-| **04 — Typography Mastery** | Typeface selection, variable fonts, pairing system, fluid type, web font performance |
-| **05 — Layouts & IA** | Grids, F/Z/bento/magazine layouts, section architecture, responsive strategy |
+### The Problem
+Most AI agents struggle with:
+- ❌ Not reading the existing codebase before making changes
+- ❌ Outputting incomplete code with placeholders
+- ❌ Making unplanned, risky edits to production code
+- ❌ Generating code without verification
+- ❌ Treating every request the same way
 
-### 💡 Ideas & Specialized Blueprints
-| Module | What It Teaches |
-|--------|-----------------|
-| **06 — Website Ideas Library** | **350 website ideas** across 30+ categories — each with audience, layout, colors, typography, animations, conversion strategy |
-| **07 — Premium Landing Pages** | Hero mastery, CTA design, social proof, pricing psychology, page blueprints |
-| **08 — SaaS & Startup Design** | SaaS-specific patterns, onboarding flows, pricing pages, dashboard UI |
-| **09 — Ecommerce Design** | Product pages, checkout optimization, trust signals, mobile commerce |
-| **10 — Dashboard Design** | KPI cards, chart selection, data tables, mobile adaptation |
-
-### 🎬 Animation & Immersion
-| Module | What It Teaches |
-|--------|-----------------|
-| **11 — Animation & Motion Design** | Framer Motion, GSAP, ScrollTrigger, performance guidelines (60fps), easing |
-| **12 — 3D Websites** | Three.js, React Three Fiber, Spline, poly limits, mobile optimization, fallbacks |
-| **13 — Interactive Experiences** | Custom cursors, parallax, particles, scrollytelling, audio interactions |
-| **14 — Modern Web Trends** | Glassmorphism, neumorphism, AI-inspired design, trend analysis (2024-2026) |
-
-### 🔍 Audit, Review & Optimization
-| Module | What It Teaches |
-|--------|-----------------|
-| **15 — Website Audit System** | 10-dimension scoring (1-100), audit report template |
-| **16 — Design Review System** | Weighted scoring matrix, common issues & solutions |
-| **17 — Conversion Optimization** | A/B testing, friction reduction, pricing psychology, micro-conversions |
-| **18 — Inspiration Engine** | Research sources (Awwwards, Dribbble, etc.), deconstruction framework, trend detection |
-
-### 🛠 Research & Deployment
-| Module | What It Teaches |
-|--------|-----------------|
-| **19 — Research & Analysis** | Competitive analysis, reverse-engineering, GitHub sourcing |
-| **20 — Complete Checklists** | Pre-dev → development → pre-deploy → post-deploy checklists |
-| **21 — CLI Research Mode** | **Mandatory internet research protocol** with search prompts for AI agents |
+### The Solution: This Skill System
+| Challenge | How This System Solves It |
+|-----------|--------------------------|
+| **Chaotic execution** | Master routing protocol (`direction.md`) maps every request to the right tool |
+| **Incomplete code** | `advanced-unified-editor.md` enforces complete, tested, production-ready code |
+| **No planning** | `planner-executor-orchestrator.md` enforces plan → execute → verify workflow |
+| **Context loss** | `context-optimizer.md` provides token-efficient file parsing and CLI-first access |
+| **Manual verification** | `adversarial-verifier.md` ensures every change passes QA checks |
+| **Websites without ops manuals** | `website-generator-operator.md` auto-generates operation manuals for maintenance |
+| **Design without research** | `website-mastery/` skill provides 22 modules of design knowledge + research protocol |
 
 ---
 
-## 🏆 Who Is This For?
+## 🏗 Architecture Overview
 
-| Role | Benefit |
-|------|---------|
-| **AI Agents** | Complete knowledge base to design premium websites autonomously |
-| **Developers** | Design principles + practical code patterns to level up your frontend |
-| **Designers** | Structured color/typography/layout systems + modern trends |
-| **Startup Founders** | Blueprints for high-conversion landing pages and SaaS sites |
-| **Students** | Industry-grade design education in 22 bite-sized modules |
+### The 21 Core Skills
+
+| Category | Skill | Purpose |
+|----------|-------|---------|
+| **🎯 Routing** | `direction.md` | Master protocol that routes every request to the correct skill |
+| **💻 Execution** | `advanced-unified-editor.md` | SEARCH/REPLACE-based code editing with zero placeholders |
+| | `planner-executor-orchestrator.md` | Explore → Plan → Execute → Verify workflow for complex changes |
+| | `context-optimizer.md` | Token-efficient file access and CLI-first context loading |
+| | `adversarial-verifier.md` | QA verification, root-cause analysis, linting |
+| **🌐 Website Building** | `website-generator-operator.md` | Build new sites from scratch + auto-generate operations manuals |
+| | `website-mastery/SKILL.md` | 22 modules on design theory, UI/UX, colors, typography, animation, 3D, trends |
+| **🔧 Operations** | `manage-not-gaming-playz.md` | Maintain The Antigle (Not Gaming Playz) project |
+| **📋 Planning** | `to-issues.md` | Convert plans into GitHub issues with smart work slicing |
+| | `to-prd.md` | Write PRDs from conversation context |
+| **🐛 Debugging** | `diagnose/SKILL.md` | Root-cause analysis for crashes, errors, regressions |
+| **🎨 Design** | `prototype/SKILL.md` | Quick prototypes, mocks, sanity checks |
+| **🏢 Architecture** | `improve-codebase-architecture/SKILL.md` | Refactoring, decoupling, architectural review |
+| **📊 Workflow** | `triage/SKILL.md` | Issue triage and workflow management |
+| | `grill-me/SKILL.md` | Stress-test plans and designs (grill sessions) |
+| | `grill-with-docs/SKILL.md` | Grill sessions using domain documentation |
+| | `handoff/SKILL.md` | Hand off to another agent with context docs |
+| | `zoom-out/SKILL.md` | High-level codebase understanding |
+| **⚙️ Development** | `tdd/SKILL.md` | Test-driven development (red-green-refactor) |
+| | `write-a-skill/SKILL.md` | Framework for writing new skill files |
+| | `setup-matt-pocock-skills/SKILL.md` | Bootstrap agent skills for any GitHub repo |
+| **🎯 Optimization** | `caveman/SKILL.md` | Ultra-brief responses, token-saving mode |
+
+---
+
+## 🔄 The Routing Protocol (How It Works)
+
+Every request follows this flow:
+
+```
+User Request
+    ↓
+[Read direction.md]
+    ↓
+[Match skill type]
+    ↓
+[Load that skill's files]
+    ↓
+[Execute using skill's workflow]
+    ↓
+[Return result]
+```
+
+### Routing Examples
+
+| User Says... | Routes To | Why |
+|---|---|---|
+| *"Fix this bug in checkout"* | `diagnose/` | Root-cause analysis |
+| *"Build a landing page"* | `website-mastery/` + `website-generator-operator.md` | Design → Build → Ops Manual |
+| *"Refactor this module"* | `improve-codebase-architecture/` | Complex, needs planning |
+| *"Add this feature"* | `planner-executor-orchestrator.md` → `advanced-unified-editor.md` → `adversarial-verifier.md` | Plan → Execute → Verify |
+| *"Generate GitHub issues from this plan"* | `to-issues.md` | Work slicing + GitHub |
+| *"Simple code review"* | Direct response | No skill needed |
+
+---
+
+## 🎬 Advanced Agentic Workflows
+
+The system supports **composition workflows** for complex requests:
+
+### Simple Edit
+```
+context-optimizer → advanced-unified-editor
+(Find relevant code → SEARCH/REPLACE edit)
+```
+
+### Multi-Step Feature / Refactor
+```
+context-optimizer → planner-executor-orchestrator → advanced-unified-editor → adversarial-verifier
+(Explore → Plan → Execute → Verify)
+```
+
+### Bug Fix
+```
+diagnose → planner-executor-orchestrator → advanced-unified-editor → adversarial-verifier
+(Root cause → Plan fix → Apply → Verify)
+```
+
+### New Website from Scratch
+```
+website-mastery → website-generator-operator → context-optimizer → planner-executor-orchestrator → adversarial-verifier
+(Research design → Build → Explore → Plan → Verify)
+```
+
+### Premium Website Design/Redesign
+```
+website-mastery → context-optimizer → planner-executor-orchestrator → advanced-unified-editor → adversarial-verifier
+(Design → Explore → Plan → Execute → Verify)
+```
+
+---
+
+## 📂 Directory Structure
+
+```
+website-mastery-skill/
+├── README.md                              # This file
+├── direction.md                           # Master routing protocol
+├── advanced-unified-editor.md             # Code editing rules
+├── planner-executor-orchestrator.md       # Plan → Execute → Verify workflow
+├── context-optimizer.md                   # Token-efficient file access
+├── adversarial-verifier.md                # QA verification
+├── website-generator-operator.md          # Build new sites + ops manuals
+├── manage-not-gaming-playz.md             # Project-specific operations
+│
+├── website-mastery/                       # [Skill folder] Design knowledge base
+│   ├── SKILL.md                           # Routing entry point
+│   ├── 01-Website-Foundations.md          # Design theory
+│   ├── 02-UI-UX-Mastery.md                # UX patterns
+│   ├── 03-Professional-Color-Systems.md   # Colors & palettes
+│   ├── 04-Typography-Mastery.md           # Fonts & type scales
+│   ├── 05-Layouts-And-IA.md               # Grids, layouts, structure
+│   ├── 06-Website-Ideas-Library.md        # 350+ website ideas
+│   ├── 07-Premium-Landing-Pages.md        # Conversion blueprints
+│   ├── ... [11 more design modules]
+│   └── 21-CLI-Research-Mode.md            # Research protocol
+│
+├── diagnose/                              # [Skill folder] Bug diagnosis
+├── prototype/                             # [Skill folder] Quick prototyping
+├── improve-codebase-architecture/         # [Skill folder] Refactoring
+├── tdd/                                   # [Skill folder] Test-driven dev
+├── to-issues/                             # [Skill folder] Plan → Issues
+├── to-prd/                                # [Skill folder] Context → PRD
+├── triage/                                # [Skill folder] Issue management
+├── grill-me/                              # [Skill folder] Stress testing
+├── grill-with-docs/                       # [Skill folder] Documented grill
+├── handoff/                               # [Skill folder] Agent handoff
+├── zoom-out/                              # [Skill folder] Codebase overview
+├── caveman/                               # [Skill folder] Token saving
+├── setup-matt-pocock-skills/              # [Skill folder] Bootstrap skills
+└── write-a-skill/                         # [Skill folder] Create new skills
+```
 
 ---
 
 ## 🚀 Quick Start
 
-### For AI Agents
+### For AI Agents / LLMs
+
+**Step 1:** Read the routing protocol
 ```
-1. Read 21-CLI-Research-Mode.md  → Research current trends
-2. Read 01-Website-Foundations.md → Ground design decisions
-3. Browse 06-Website-Ideas.md     → Find matching idea blueprint
-4. Apply 03 (color) + 04 (typo) + 05 (layout)
-5. Add motion (11, 12, 13)
-6. Audit (15, 16)
-7. Optimize (17)
-8. Ship (20)
+1. Load direction.md
+2. Match the user's request to a skill type
+3. Load that skill's files
+4. Execute using the skill's workflow
 ```
 
-### For Humans
+**Step 2:** Example workflow for "build a landing page"
 ```
-git clone https://github.com/YOUR_USERNAME/website-mastery-skill.git
+1. Read website-mastery/SKILL.md
+2. Follow design research protocol
+3. Execute website-generator-operator.md
+4. Generate operations manual automatically
+5. Return site + ops guide
+```
+
+### For Developers / Humans
+
+**Step 1:** Clone the repository
+```bash
+git clone https://github.com/vrijesh-bhau/website-mastery-skill.git
 cd website-mastery-skill
 ```
-Then open any `.md` file and start learning. No build tools, no dependencies — pure knowledge.
 
----
-
-## ⚡ Why This Beats Random Blog Posts
-
-- ✅ **Structured** — 22 modules in logical order, not scattered articles
-- ✅ **Production-ready** — Every pattern is battle-tested on real premium websites
-- ✅ **AI-optimized** — Written so AI agents can understand AND execute
-- ✅ **350 ready ideas** — Never stare at a blank page again
-- ✅ **Research-first** — Mandatory internet research protocol keeps designs current
-- ✅ **Audit system** — Know exactly where your design stands and how to improve it
-
----
-
-## 📂 File Structure
-
-```
-website-mastery/
-├── README.md                               # This file
-├── SKILL.md                                # Entry point with module map
-├── 01-Website-Foundations.md               # Core design theory
-├── 02-UI-UX-Mastery.md                     # User experience patterns
-├── 03-Professional-Color-Systems.md        # 100+ color palettes
-├── 04-Typography-Mastery.md                # Type scale & pairing
-├── 05-Layouts-And-Information-Architecture.md
-├── 06-Website-Ideas-Library.md             # 350 ideas
-├── 07-Premium-Landing-Pages.md             # Conversion blueprints
-├── 08-SaaS-And-Startup-Design.md           # SaaS patterns
-├── 09-Ecommerce-Design.md                  # Store design
-├── 10-Dashboard-Design.md                  # Data UI
-├── 11-Animation-And-Motion-Design.md       # Framer/GSAP
-├── 12-3D-Websites.md                       # Three.js/R3F
-├── 13-Interactive-Web-Experiences.md       # Cursor/parallax
-├── 14-Modern-Web-Trends.md                 # 2024-2026 trends
-├── 15-Website-Audit-System.md              # Scoring matrix
-├── 16-Design-Review-System.md              # Review template
-├── 17-Conversion-Optimization.md           # CRO tactics
-├── 18-Inspiration-Engine.md                # Research sources
-├── 19-Research-And-Competitive-Analysis.md
-├── 20-Complete-Website-Checklists.md       # Ship checklists
-└── 21-OpenCode-AI-CLI-Research-Mode.md     # Research protocol
+**Step 2:** Read `direction.md` first
+```bash
+cat direction.md
 ```
 
+**Step 3:** Navigate to the skill you need
+```bash
+# For website design
+open website-mastery/SKILL.md
+
+# For debugging
+open diagnose/SKILL.md
+
+# For building new sites
+open website-generator-operator.md
+```
+
+**Step 4:** Follow the skill's workflow
+Each skill file contains a complete workflow and checklist.
+
 ---
 
-## 🛡 License
+## 🏆 Who Should Use This?
 
-MIT — Use freely, modify, share. No restrictions.
+| Role | Use Case |
+|------|----------|
+| **AI Agents & LLMs** | Framework for autonomous website design, development, debugging, and operations |
+| **Senior Developers** | Structured approach to complex refactoring, planning, and verification |
+| **Startup Founders** | Pre-built design systems and landing page blueprints for fast iteration |
+| **Design Teams** | 22 modules of design knowledge + inspiration engine for world-class websites |
+| **Freelancers** | Operations manuals + checklists for repeatable, high-quality delivery |
+| **Students** | Industry-grade design and development education in 21 bite-sized skills |
+
+---
+
+## ✨ Key Principles
+
+### 1. **No Guessing**
+Every skill enforces reading the actual codebase before making changes. Use grep, lexical search, or file reading—never assume.
+
+### 2. **Complete Code Only**
+The `advanced-unified-editor.md` skill strictly forbids:
+- Placeholder comments like `// ... rest remains same`
+- Incomplete code blocks
+- Unverified changes
+
+Every SEARCH/REPLACE must be exact and complete.
+
+### 3. **Plan Before Execute**
+The `planner-executor-orchestrator.md` enforces:
+1. **Explore** — Read the codebase
+2. **Plan** — Write a step-by-step blueprint
+3. **Execute** — Apply changes in order
+4. **Verify** — Run checks
+
+No shortcuts.
+
+### 4. **Routing First**
+`direction.md` is the **master control**. Read it before every action. It tells you which skill to load.
+
+### 5. **Operations Manuals Mandatory**
+When building websites, `website-generator-operator.md` automatically generates a maintenance manual. This enables:
+- Non-technical team members to update content
+- Consistent handoffs between developers
+- Self-service maintenance
+
+---
+
+## 🔍 What's Inside Each Skill
+
+### Website Mastery (`website-mastery/SKILL.md`)
+22 modules covering:
+- Design theory (hierarchy, color psychology, typography)
+- UI/UX patterns (interactions, mobile, onboarding)
+- 350+ website ideas with full specs
+- Animation (Framer Motion, GSAP, Three.js)
+- 3D websites (R3F, fallbacks)
+- Conversion optimization (A/B testing, friction removal)
+- Modern web trends (2024-2026)
+- Audit system with scoring matrix
+- Inspiration engine + research protocol
+
+### Advanced Unified Editor (`advanced-unified-editor.md`)
+Complete rules for production-grade code editing:
+- SEARCH/REPLACE format (exact matching, no placeholders)
+- Multi-file edits in dependency order
+- Verification checklist
+- Edge case handling
+
+### Planner-Executor Orchestrator (`planner-executor-orchestrator.md`)
+Workflow for complex multi-step changes:
+- Phase 1: Explore (read actual files)
+- Phase 2: Plan (write blueprint)
+- Phase 3: Execute (apply changes)
+- Phase 4: Verify (run checks)
+
+### Website Generator Operator (`website-generator-operator.md`)
+Build new sites autonomously:
+- Architecture planning
+- Clean semantic code
+- Mobile responsive
+- Dark/light theme support
+- Auto-generate operations manual
+
+### Direction / Routing (`direction.md`)
+Master protocol that routes every request to the correct skill based on the user's intent.
+
+---
+
+## 🛠 How to Extend
+
+### Adding a New Skill
+1. Create a new folder: `{skill-name}/`
+2. Create `SKILL.md` inside with the skill definition
+3. Add entry to routing table in `direction.md`
+4. Document the workflow clearly
+
+See `write-a-skill/SKILL.md` for detailed guidelines.
+
+### Adding Operations Manual Support
+If you create a new website using `website-generator-operator.md`, it automatically generates `[project-name]_operations.md` in `skills/` for easy maintenance.
+
+---
+
+## 📜 License
+
+MIT — Use freely, modify, and share. No restrictions.
 
 ---
 
 ## 🤝 Contributing
 
-Ideas, bug fixes, and new modules welcome. Open an issue or PR.
+Ideas, bug fixes, new skills, and improvements welcome!
+
+- Found a bug? Open an issue
+- Have a new skill idea? Submit a PR
+- Want to improve a module? Contribute!
 
 ---
 
 ## 🌐 Built For
 
-[OpenCode](https://opencode.ai) — This skill system is designed for OpenCode AI agents and any LLM-powered coding assistant.
+**[OpenCode](https://opencode.ai)** — A platform for AI agents and LLMs to code autonomously.
+
+This skill system teaches agents how to think like:
+- 🎨 **Senior Product Designer** (visual thinking)
+- 🏗 **Architect** (structural thinking)
+- 💻 **Elite Coder** (execution thinking)
+- 🔍 **QA Engineer** (verification thinking)
+
+Every website it creates is production-ready, well-planned, and fully documented.
 
 ---
 
-> **"The purpose of this skill is not merely creating websites. It's teaching AI how to think like a Senior Product Designer, Creative Director, and Conversion Specialist — so every website it creates feels modern, premium, polished, and professionally designed."**
+## 📚 Documentation
+
+| Document | Purpose |
+|----------|---------|
+| `direction.md` | Master routing protocol — **READ THIS FIRST** |
+| `website-mastery/SKILL.md` | Design knowledge base entry point |
+| `website-generator-operator.md` | Build new sites + operations manuals |
+| `advanced-unified-editor.md` | Complete code editing rules |
+| `planner-executor-orchestrator.md` | Plan → Execute → Verify workflow |
+| `context-optimizer.md` | Token-efficient context loading |
+| `adversarial-verifier.md` | QA verification checklist |
+
+---
+
+> **The purpose of this skill system is not just building websites. It's teaching AI agents—and developers—how to think systematically, plan rigorously, execute precisely, and verify everything. Because shipping production code is a discipline, not a guess.**
